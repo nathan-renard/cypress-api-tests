@@ -1,0 +1,9 @@
+# Cypress test results
+cypress/videos/
+cypress/screenshots/
+
+# Cypress config cache
+.cypress_cache/
+
+# Cypress environment files (if used)
+cypress.env.json
